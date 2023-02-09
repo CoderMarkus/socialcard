@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+.image2 {
+  border-radius: 20%;
+  border: 5px solid red;
+}
+
+.h2 {
+  color: brown;
+  text-align: center;
+}
+
+.repo {
+  color: violet;
+}
+
+.coder {
+  color: green;
+}
